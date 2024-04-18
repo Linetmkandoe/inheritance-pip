@@ -6,11 +6,6 @@ fun main() {
     val noiseMakers = arrayOf("Brenda","perl","john","chris")
     for (noisy in noiseMakers){
 
-        {       continue
-        }
-        else {
-            println(noisy)
-        }
     }
     val fruits= arrayOf("banana","apple","mango","grapes")
     for(fruit in fruits){
